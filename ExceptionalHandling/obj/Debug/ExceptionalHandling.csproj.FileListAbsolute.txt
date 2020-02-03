@@ -1,0 +1,6 @@
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\ExceptionalHandling\bin\Debug\ExceptionalHandling.exe.config
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\ExceptionalHandling\bin\Debug\ExceptionalHandling.exe
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\ExceptionalHandling\bin\Debug\ExceptionalHandling.pdb
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\ExceptionalHandling\obj\Debug\ExceptionalHandling.csprojAssemblyReference.cache
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\ExceptionalHandling\obj\Debug\ExceptionalHandling.exe
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\ExceptionalHandling\obj\Debug\ExceptionalHandling.pdb

@@ -1,0 +1,6 @@
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\CustomException\bin\Debug\CustomException.exe.config
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\CustomException\bin\Debug\CustomException.exe
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\CustomException\bin\Debug\CustomException.pdb
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\CustomException\obj\Debug\CustomException.csprojAssemblyReference.cache
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\CustomException\obj\Debug\CustomException.exe
+C:\Users\Gautam_Gottipati\source\repos\ExceptionalHandling\CustomException\obj\Debug\CustomException.pdb
